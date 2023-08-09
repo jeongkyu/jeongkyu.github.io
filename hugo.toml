@@ -1,0 +1,4 @@
+baseURL = 'https://jeongkyu.github.io/'
+languageCode = 'ko-KR'
+title = 'gomme fatale'
+theme = 'mini'
